@@ -1,0 +1,18 @@
+select vdisk file="${{github.workspace}}\test01.vhdx"
+attach vdisk 
+select vdisk file="${{github.workspace}}\test02.vhdx"
+attach vdisk
+select vdisk file="${{github.workspace}}\test03.vhdx"
+attach vdisk
+select vdisk file="${{github.workspace}}\test04.vhdx"
+attach vdisk
+select vdisk file="${{github.workspace}}\test05.vhdx"
+attach vdisk
+select vdisk file="${{github.workspace}}\test06.vhdx"
+attach vdisk
+select vdisk file="${{github.workspace}}\test07.vhdx"
+attach vdisk
+select vdisk file="${{github.workspace}}\test08.vhdx"
+attach vdisk 
+select vdisk file="${{github.workspace}}\test09.vhdx"
+attach vdisk 
