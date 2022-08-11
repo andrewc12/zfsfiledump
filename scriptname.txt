@@ -1,18 +1,18 @@
-select vdisk file="${{github.workspace}}\testdrives\test01.vhdx"
+select vdisk file="D:\test01.vhdx"
 attach vdisk 
-select vdisk file="${{github.workspace}}\testdrives\test02.vhdx"
+select vdisk file="D:\test02.vhdx"
 attach vdisk
-select vdisk file="${{github.workspace}}\testdrives\test03.vhdx"
+select vdisk file="D:\test03.vhdx"
 attach vdisk
-select vdisk file="${{github.workspace}}\testdrives\test04.vhdx"
+select vdisk file="D:\test04.vhdx"
 attach vdisk
-select vdisk file="${{github.workspace}}\testdrives\test05.vhdx"
+select vdisk file="D:\test05.vhdx"
 attach vdisk
-select vdisk file="${{github.workspace}}\testdrives\test06.vhdx"
+select vdisk file="D:\test06.vhdx"
 attach vdisk
-select vdisk file="${{github.workspace}}\testdrives\test07.vhdx"
+select vdisk file="D:\test07.vhdx"
 attach vdisk
-select vdisk file="${{github.workspace}}\testdrives\test08.vhdx"
+select vdisk file="D:\test08.vhdx"
 attach vdisk 
-select vdisk file="${{github.workspace}}\testdrives\test09.vhdx"
+select vdisk file="D:\test09.vhdx"
 attach vdisk 
